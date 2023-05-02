@@ -40,6 +40,10 @@ https://www.unrealengine.com/marketplace/ja/product/runtime-audio-importer
 - https://ai-create.net/magazine/2023/03/02/post-10647/
 - https://blog.since2020.jp/ai/chatgpt_api_role/
 
+# その他
+- VoicePeakの制限により、140文字以上のテキストからボイス生成することはできません。そのため、ChatGPTに「回答は140文字以下で」とか制限をつけることを推奨します
+  - 分割した文章毎にボイス生成とか考えましたが、地味に面倒そうなので後回しにしました
+
 # エンジンバージョン
 5.1
 
