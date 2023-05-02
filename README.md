@@ -43,6 +43,8 @@ https://www.unrealengine.com/marketplace/ja/product/runtime-audio-importer
 # その他
 - VoicePeakの制限により、140文字以上のテキストからボイス生成することはできません。そのため、ChatGPTに「回答は140文字以下で」とか制限をつけることを推奨します
   - 分割した文章毎にボイス生成とか考えましたが、地味に面倒そうなので後回しにしました
+- 外部プロセスを呼び出すLatentノードをプラグインに含めてます。UBlueprintAsyncActionBaseでFPlatformProcess::CreateProcを動かしているだけですが参考程度にどうぞ
+  - Plugins/VoicePeakUE5/Source/VoicePeakUE5/Public/VoicePeakFunctionLibrary.h
 
 # エンジンバージョン
 5.1
