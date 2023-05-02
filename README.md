@@ -50,4 +50,4 @@ https://www.unrealengine.com/marketplace/ja/product/runtime-audio-importer
 5.1
 
 # 作者
-https://twitter.com/pafuhana1213
+おかず https://twitter.com/pafuhana1213
