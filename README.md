@@ -49,6 +49,9 @@ Plugins/VoicePeakUE5 Content 以下にある各EditorUtilityWidgetをどうぞ
   - 分割した文章毎にボイス生成とか考えましたが、地味に面倒そうなので後回しにしました
 - 外部プロセスを呼び出すLatentノードをプラグインに含めてます。UBlueprintAsyncActionBaseでFPlatformProcess::CreateProcを動かしているだけですが参考程度にどうぞ
   - Plugins/VoicePeakUE5/Source/VoicePeakUE5/Public/VoicePeakFunctionLibrary.h
+- ChatGPTから回答をもらう際に感情スコアも添えるようにして、それをVoicePeckのオプションに食わせるとかしたい
+  - やってみた：https://twitter.com/pafuhana1213/status/1653118678802792449
+  - それらのパラメータに応じてキャラのモーションと表情を制御したりしてみたい
 
 # エンジンバージョン
 5.1
