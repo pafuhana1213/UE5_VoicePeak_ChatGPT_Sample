@@ -20,9 +20,11 @@ Plugins/VoicePeakUE5 Content 以下にある各EditorUtilityWidgetをどうぞ
 
 # サンプルを動かす上で必要なプラグイン
 - HttpGPT - GPT Integration (ChatGPT and DALL-E)  
-https://www.unrealengine.com/marketplace/ja/product/httpgpt-chatgpt-integrated-in-the-engine  
+  - https://www.unrealengine.com/marketplace/ja/product/httpgpt-chatgpt-integrated-in-the-engine  
+  - ドキュメント：https://github.com/gtreshchev/RuntimeAudioImporter/wiki
 - Runtime Audio Importer  
-https://www.unrealengine.com/marketplace/ja/product/runtime-audio-importer  
+  - https://www.unrealengine.com/marketplace/ja/product/runtime-audio-importer  
+  - ドキュメント：https://github.com/lucoiso/UEHttpGPT/wiki
 
 どちらも無料で入手可能です。
 
