@@ -1,4 +1,4 @@
-# UE5_VoicePeakSample
+# UE5_VoicePeak( & ChatGPT )Sample
 ![image](https://user-images.githubusercontent.com/8957600/235693868-1c2a984f-80f7-445e-9119-80fc984971fd.png)  
 UE5上でVoicePeakを動かすだけのサンプルだったはずが、調子に乗ってChatGPT APIに対応したサンプルです。  
 VoicePeak : https://www.ah-soft.com/voice/6nare/  
