@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "VoicePeakUE5",
+	"Description": "",
+	"Category": "Audio",
+	"CreatedBy": "pafuhana1213",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "VoicePeakUE5",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "RuntimeAudioImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "HttpGPT",
+			"Enabled": true
+		}
+	]
+}
