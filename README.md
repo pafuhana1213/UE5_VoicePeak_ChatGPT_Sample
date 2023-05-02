@@ -24,6 +24,8 @@ https://www.unrealengine.com/marketplace/ja/product/httpgpt-chatgpt-integrated-i
 - Runtime Audio Importer  
 https://www.unrealengine.com/marketplace/ja/product/runtime-audio-importer  
 
+どちらも無料で入手可能です。
+
 # ChatGPTを動かす上で必要な設定など
 - ChatGPT API Keyは同梱していません。ご自身のものをご使用ください
 - EUW_ChatGPT, EUW_ChatGPT2VoicePeak または プロジェクト設定/Plugins/HttpGPT にて APIKeyとユーザ名を入力してください
